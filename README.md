@@ -15,5 +15,5 @@ If you are attempting to build this on Windows, just run the contents of the bui
 <br /> `wget $LINK_TO_PKG_RELEASE -o $OUTPUT_LOCATION`
 <br /> `pkgadd -d $PATH_TO_OUTPUT_LOCATION`
 
-**Uninstalling pkg release on Illumos**: Run the following command to uninstall this package from your system. (This is assuming you have no moved any installed files.)
+**Uninstalling pkg release on Illumos**: Run the following command to uninstall this package from your system. (This is assuming you have not moved any installed files.)
 <br /> `pkgrm svcbundle`
